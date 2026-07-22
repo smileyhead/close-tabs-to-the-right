@@ -1,0 +1,16 @@
+{
+  "extensionName": {
+    "message": "Jobbra lévő lapok bezárása",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "A „jobbra lévő lapok bezárása” elem duplikálása a lapok helyi menüjének alapszintjére.",
+    "description": "Description of the extension."
+  },
+
+  "contextItemTitle": {
+      "message": "Jobbra lé&vő lapok bezárása",
+      "description": "Title of the context menu item."
+  }
+}
